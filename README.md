@@ -20,3 +20,13 @@ Predict relative or absolute FVC decline given CT(1) and FVC(t1). Perform initia
 FEV1 and FVC: The FEV1/FVC ratio, also called Tiffeneau-Pinelli index,[1] is a calculated ratio used in the diagnosis of obstructive and restrictive lung disease.[2][3] It represents the proportion of a person's vital capacity that they are able to expire in the first second of forced expiration (FEV1) to the full, forced vital capacity (FVC).[4] The result of this ratio is expressed as FEV1%.
 The evaluation metric is a modified version of Laplace Log Likelihood. In medical applications, it is useful to evaluate a model's confidence in its decisions. Accordingly, the metric is designed to reflect both the accuracy and certainty of each prediction. For each true FVC measurement, we predict both an FVC and a confidence measure (standard deviation σ).
 https://github.com/almascpdcs224n/__computational-biology/blob/main/Kaggle_challenge_LungCancer_.ipynb 
+
+
+### SA-Heart Disease Dataset Modeling
+
+This is a presentation of an analysis of heart disease study data, coronary-risk-factor modeling. 
+
+<table>
+<td> <img width="619" alt="image" src="https://user-images.githubusercontent.com/67139134/235364134-78291b75-b098-4c0d-b2f3-f2e8c7e8a5b7.png"> </td>
+<td> <img width="792" alt="image" src="https://user-images.githubusercontent.com/67139134/235364279-0a65bdac-c469-478c-b9e0-4b69cb1acf21.png"> </td>
+</table>
