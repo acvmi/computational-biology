@@ -23,22 +23,17 @@ https://github.com/almascpdcs224n/__computational-biology/blob/main/Kaggle_chall
 
 #### Computational Biology Appendix 
 <table>
-<tr>
-<td> <img width="655" alt="image" src="https://user-images.githubusercontent.com/67139134/235373988-098e6165-f10d-4db7-ac2f-c0f409a688a2.png"> </td>
-<td> </br> <img width="669" alt="image" src="https://user-images.githubusercontent.com/67139134/235374085-f046f64c-38f9-4417-8b3a-0a39e8f284bc.png">  </td>
-</tr>
-</table>
-<table>
-<tr>
-<td> <img width="644" alt="image" src="https://user-images.githubusercontent.com/67139134/235374158-3f04596f-6db1-4beb-b1a0-621bc9736234.png"> <td>
-<td> </br> <img width="587" alt="image" src="https://user-images.githubusercontent.com/67139134/235374365-a5470c69-645a-498b-a205-fd97a5404134.png"> </td>
-</tr>
+<td> <img width="550" alt="image" src="https://user-images.githubusercontent.com/67139134/235373988-098e6165-f10d-4db7-ac2f-c0f409a688a2.png"> </td>
+<td> </br> <img width="550" alt="image" src="https://user-images.githubusercontent.com/67139134/235374085-f046f64c-38f9-4417-8b3a-0a39e8f284bc.png">  </td>
 </table>
 
 <table>
-<tr>
-<td> <img width="645" alt="image" src="https://user-images.githubusercontent.com/67139134/235373799-8c5a827b-93f4-4ab2-9ce9-9ba475645014.png"> </td>
-<td> <img width="634" alt="image" src="https://user-images.githubusercontent.com/67139134/235373849-3293803f-8ec1-4fd5-b9c9-3903512b5320.png"> 
-     <br/> <br/> <br/>  <br/> <br/> <br/> <br/> <br/> <br/> </td>
-</tr>
+<td> <img width="550" alt="image" src="https://user-images.githubusercontent.com/67139134/235374158-3f04596f-6db1-4beb-b1a0-621bc9736234.png"> </td>
+<td> </br> <img width="550" alt="image" src="https://user-images.githubusercontent.com/67139134/235374365-a5470c69-645a-498b-a205-fd97a5404134.png"> </td>
+</table>
+
+<table>
+<td> <img width="550" alt="image" src="https://user-images.githubusercontent.com/67139134/235373799-8c5a827b-93f4-4ab2-9ce9-9ba475645014.png"> </td>
+<td> <img width="550" alt="image" src="https://user-images.githubusercontent.com/67139134/235373849-3293803f-8ec1-4fd5-b9c9-3903512b5320.png"> 
+<br/> <br/> <br/> <br/> <br/> <br/> </td>
 </table>
