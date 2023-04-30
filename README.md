@@ -20,3 +20,25 @@ Predict relative or absolute FVC decline given CT(1) and FVC(t1). Perform initia
 FEV1 and FVC: The FEV1/FVC ratio, also called Tiffeneau-Pinelli index,[1] is a calculated ratio used in the diagnosis of obstructive and restrictive lung disease.[2][3] It represents the proportion of a person's vital capacity that they are able to expire in the first second of forced expiration (FEV1) to the full, forced vital capacity (FVC).[4] The result of this ratio is expressed as FEV1%.
 The evaluation metric is a modified version of Laplace Log Likelihood. In medical applications, it is useful to evaluate a model's confidence in its decisions. Accordingly, the metric is designed to reflect both the accuracy and certainty of each prediction. For each true FVC measurement, we predict both an FVC and a confidence measure (standard deviation σ).
 https://github.com/almascpdcs224n/__computational-biology/blob/main/Kaggle_challenge_LungCancer_.ipynb 
+
+#### Computational Biology Appendix 
+<table>
+<tr>
+<td> <img width="655" alt="image" src="https://user-images.githubusercontent.com/67139134/235373988-098e6165-f10d-4db7-ac2f-c0f409a688a2.png"> </td>
+<td> </br> <img width="669" alt="image" src="https://user-images.githubusercontent.com/67139134/235374085-f046f64c-38f9-4417-8b3a-0a39e8f284bc.png">  </td>
+</tr>
+</table>
+<table>
+<tr>
+<td> <img width="644" alt="image" src="https://user-images.githubusercontent.com/67139134/235374158-3f04596f-6db1-4beb-b1a0-621bc9736234.png"> <td>
+<td> </br> <img width="587" alt="image" src="https://user-images.githubusercontent.com/67139134/235374365-a5470c69-645a-498b-a205-fd97a5404134.png"> </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td> <img width="645" alt="image" src="https://user-images.githubusercontent.com/67139134/235373799-8c5a827b-93f4-4ab2-9ce9-9ba475645014.png"> </td>
+<td> <img width="634" alt="image" src="https://user-images.githubusercontent.com/67139134/235373849-3293803f-8ec1-4fd5-b9c9-3903512b5320.png"> 
+     <br/> <br/> <br/>  <br/> <br/> <br/> <br/> <br/> <br/> </td>
+</tr>
+</table>
